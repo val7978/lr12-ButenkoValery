@@ -1,0 +1,16 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="40" rx="5" fill="darkblue"/> 
+    
+    <g transform="translate(15, 10)"> 
+        <path d="M0 0.910156H20V18.8412H0V0.910156Z" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M10 9.87573V18.8412" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M0 9.87573H19.8103" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4.32758 12.6343V16.0826" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M2.25861 14.0134H6.39654" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M11.9138 13.324H16.7414" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M11.9138 15.3928H16.7414" stroke="#FFFFFF" stroke-width="1.36667" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+        
+        <text x="30" y="15" fill="#FFFFFF" font-size="13" font-weight="bold">Calculation</text>
+    </g>
+</svg>
+
